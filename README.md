@@ -1,6 +1,5 @@
  <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
-  
-farahnaz-attari/README.md
+
 
 # Hi there! Nice to see you.  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm Farah <br> Front End Developer :computer:
 
