@@ -34,4 +34,4 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-farahnazattari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farahnazattari/)](https://www.linkedin.com/in/farahnazattari/) [![email](https://img.shields.io/static/v1.svg?label=Email&message=Signature&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://www.farahnaz.attari@yahoo.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-farahnazattari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farahnazattari/)](https://www.linkedin.com/in/farahnazattari/) [![email](https://img.shields.io/static/v1.svg?label=Email&message=farahnaz&color=grey&logo=gmail&style=flat&logoColor=white&colorA=critical)](https://www.farahnaz.attari@yahoo.com/)
