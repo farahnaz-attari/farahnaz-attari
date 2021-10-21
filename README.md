@@ -24,7 +24,7 @@
     </p>
     
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">:woman_technologist: About Me:</h2>
 
 - :computer: I'm currently working on  [portfolio](https://farahnazattari) 
 - :hourglass_flowing_sand:  Exploring New Technologies
